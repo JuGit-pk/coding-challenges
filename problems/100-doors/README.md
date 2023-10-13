@@ -1,6 +1,6 @@
 # 100 Doors Problem
 
-**Date Solved:** [Octoober 11, 2021]
+**Date Solved:** [Octoober 11, 2023]
 
 ## Problem Description
 
