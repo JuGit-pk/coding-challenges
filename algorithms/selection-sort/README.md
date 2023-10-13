@@ -5,7 +5,7 @@
 ## Algorithem
 
 - to sort the list
-- select the minimum and them swap it ... with the current element of the array and them move forward one index of the array
+- select the minimum and then swap it ... with the current element of the array and them move forward one index of the array
 
 ## Description
 
